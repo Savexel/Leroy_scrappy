@@ -43,4 +43,4 @@ def parse():
 
 
 parse()
-# to create an exe: in TERMINAL: pyinstaller --onefile leroymerlen.py
+# to create an exe: in TERMINAL: pyinstaller --onefile Leroy_scrappy.py
